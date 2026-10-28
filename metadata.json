@@ -1,0 +1,6 @@
+{
+  "name": "MEHKAVI PERFUMES - Luxury Artisanal Scents",
+  "description": "MEHKAVI PERFUMES: Artisanal luxury perfume house crafting impressions of niche & designer fragrances with 35% pure oil concentration, attars, scented candles, and curated bundles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
